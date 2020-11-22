@@ -22,13 +22,13 @@ Como o banco de dados físico não chegou a ser implementado, usamos o vuex para
 
 ### Como compilar a plataforma: um guia
 Primeiro, é preciso que você baixe o quasar cli e o vue cli no seu computador, utilizando o npm ou yarn, segue abaixo:
-  QuasarCLI: `npm install -g @quasar/cli` ou `yarn global add @quasar/cli`
-  VueCLI: `npm install -g @vue/cli` ou `yarn global add @vue/cli`
+  -QuasarCLI: `npm install -g @quasar/cli` ou `yarn global add @quasar/cli`
+  -VueCLI: `npm install -g @vue/cli` ou `yarn global add @vue/cli`
   
- Segundo, é preciso baixar as dependências para o código, no terminal, abra a pasta do Melhor.e, e rode o seguinte comando:
- `npm install`
+Segundo, é preciso baixar as dependências para o código, no terminal, abra a pasta do Melhor.e, e rode o seguinte comando:
+ -`npm install`
  
- Em seguida, rode o seguinte comando para desfrutar das funcionalidades da nossa plataforma WEB:
- `quasar dev`
+Em seguida, rode o seguinte comando para desfrutar das funcionalidades da nossa plataforma WEB:
+- `quasar dev`
  
 
